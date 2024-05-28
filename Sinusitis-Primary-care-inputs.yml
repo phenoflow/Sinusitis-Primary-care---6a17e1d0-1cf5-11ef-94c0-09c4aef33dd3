@@ -1,0 +1,21 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/other-sinusitis-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/acute-sinusitis-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/sinusitis-primary-care-dextrocardia---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-sinusitis-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
